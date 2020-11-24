@@ -1,3 +1,4 @@
 Data Structures:
 postfixevalexpression.js -> Implementation of Stack in JavaScript with Application: Evaluation of Postfix Expression
 genbinnumbers.js -> Implementation of Queue in JavaScript: An Method to Generate Binary Numbers from 1 to n
+linkedlist.js - > Implementation of Linked List 
