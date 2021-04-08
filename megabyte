@@ -1,0 +1,6 @@
+const toMegabyte = (megabit) =>{
+  return(megabit / 8);
+
+}
+const fast = toMegabyte(1000);
+console.log("my connection is " + fast);
