@@ -1,0 +1,14 @@
+const printTree=(height)=>{
+  let tree = ''
+  
+  for(let i=0; i<height; i++){
+    let spaces = " " .repeat(height-i-1);
+    let hashs = "#".repeat(i*2+1);
+    tree = spaces + hashs;
+    console.log(tree);
+  }
+};
+
+let number = prompt('Give number for tree height');
+printTree(parseInt(number));
+  
