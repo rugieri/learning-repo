@@ -1,2 +1,2 @@
-# JS_LEARNING
-Javascript, React and others learning
+# L3aRn1nG-5tuFF
+Javascript, React and other techs :)
