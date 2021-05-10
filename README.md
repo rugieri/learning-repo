@@ -1,2 +1,2 @@
-# L3aRn1nG-5tuFF
-Javascript, React and other techs :)
+# learning-repo
+A learning repo to experiments
