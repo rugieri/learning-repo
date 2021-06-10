@@ -1,5 +1,5 @@
 const getMonthName = (mo) =>{
-    mo = mo - 1; //Adjust month number for arrya index(1 = JAN, 12 - DEC)
+    mo = mo - 1; //Adjust month number for array index(1 = JAN, 12 - DEC)
     let months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul',
                     'Aug', 'Sep', 'Oct', 'Nov', 'Dec' ];
     if (months[mo]) {
