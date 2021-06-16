@@ -1,3 +1,5 @@
+//Exercise from FreeCodeCamp
+
 class ReturnTempPassword extends React.Component {
   constructor(props) {
     super(props);
